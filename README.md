@@ -1,2 +1,3 @@
 
-## Build a basic version of PayTM
+## Basic version of a payment app
+
